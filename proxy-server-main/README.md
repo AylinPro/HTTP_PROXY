@@ -42,6 +42,6 @@ The goal of this project is to create a HTTP/HTTPS web proxy and cache in GoLang
    
 5 **Accessing Blocked Sites**: You may try to access blocked websites specified in the blocked-domains.txt. The correct output should show “forbidden content.” Test this feature with this blocked HTTP site with our proxy server like: [gov.bg](https://gov.bg/), or choose others that match the ones specified in blocked-domains.txt 
 
-If you run into any problems, please email Kok Wei Pua (kp7662@princeton.edu) or Aylin Hadzhieva (ah4068@princeton.edu) to explain the situations, and we will help you troubleshoot the errors.
+If you run into any problems, please email Aylin Hadzhieva (ah4068@princeton.edu) to explain the situations, and we will help you troubleshoot the errors.
 
 
